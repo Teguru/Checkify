@@ -1,9 +1,19 @@
 body {
     font-family: 'Roboto', sans-serif;
     background-color: #F5F5F5;
+    color: #333333;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: "Montserrat", sans-serif;
-  }
-  
+}
+
+
+.btn-outline-primary {
+    --bs-btn-hover-bg: #9368B7;
+}
